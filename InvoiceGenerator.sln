@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceGenerator", "InvoiceGenerator.csproj", "{848E3056-986F-4F23-B5BC-0CFFBACEE13E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848E3056-986F-4F23-B5BC-0CFFBACEE13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848E3056-986F-4F23-B5BC-0CFFBACEE13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848E3056-986F-4F23-B5BC-0CFFBACEE13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848E3056-986F-4F23-B5BC-0CFFBACEE13E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC51985-761C-44D6-87A8-8DF62B8A571F}
+	EndGlobalSection
+EndGlobal
